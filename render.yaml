@@ -85,7 +85,3 @@ services:
         sync: false
       - key: LOOP_ENABLE_ALERTS # Your Dexcom account password, to receive CGM data from the Dexcom Share service. Also make sure to include 'bridge' in your ENABLE line.
         sync: false
-      - key: LOOP_APNS_KEY # Your Dexcom account password, to receive CGM data from the Dexcom Share service. Also make sure to include 'bridge' in your ENABLE line.
-        sync: false
-      - key: LOOP_APNS_KEY # Your Dexcom account password, to receive CGM data from the Dexcom Share service. Also make sure to include 'bridge' in your ENABLE line.
-        sync: false
